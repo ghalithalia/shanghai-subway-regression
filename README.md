@@ -32,7 +32,7 @@ Then we performed a **linear regression** using:
 
 ## 📄 Full Report
 
-📥 [Click here to read the full PDF](./notebook/subway-price-regression-ghali.ipynb)
+📥 [Click here to read the full PDF](./notebooks/subway-price-regression-ghali.ipynb)
 
 ---
 
